@@ -1,0 +1,9 @@
+body{ 
+    background-color: rgb(187, 173, 173);
+    line-height: 50px;
+}
+li{
+    display: block;
+    text-shadow: rgb(43, 14, 14);
+    width: 300px;
+}
